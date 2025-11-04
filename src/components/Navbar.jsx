@@ -7,7 +7,7 @@ const Navbar = () => (
     <div className="flex items-center gap-3">
       <Disc className="text-pink-500 w-6 h-6 animate-spin-slow" />
       <h1 className="text-2xl font-extrabold tracking-[0.2em] text-white glow">
-        ECHO ROOM
+        ECHOROOM
       </h1>
     </div>
 
